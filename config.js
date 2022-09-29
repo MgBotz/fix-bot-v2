@@ -47,7 +47,7 @@ global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281287142545'
-global.nomorown = '282171432358'
+global.nomorown = '6282171432358'
 global.namebot = 'MGBOTZ'
 global.nameown = 'JANGAN KEPO :V'
 
@@ -135,7 +135,7 @@ global.flaaa2 = [
 /*============== HENTAI ==============*/ 
 //OPTIONS
 global.optsnsfw = false // Untuk mematikan Dan Menyalakan Nsfw
-global.premnsfw = true // Nsfw Mode Premium?
+global.premnsfw = false // Nsfw Mode Premium?
 
 
 //Ini cuma simpenan owner kok :v
